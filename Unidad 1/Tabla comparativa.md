@@ -25,3 +25,12 @@
 ### Cardenas Lopez Erick Alexis - 19211137
 ## Fecha de entrega:
 ### 01/04/2022
+#
+#
+#
+#
+|  | Definicion | Caracteristicas | Ejemplos | Sancion |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Normas juridicas  | Prescripción dirigida al orden del comportamiento humano prescrita por una autoridad cuyo incumplimiento puede llevar a una sanción generalmente, impone deberes y confiere derechos. | - Es heterónoma.
+- Son obligatorias.
+- Las rigen autoridades. | La extorsión es un delito. | De dos a ocho años de prisión y de cuarenta a ciento sesenta días multa. |
