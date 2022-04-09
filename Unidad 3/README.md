@@ -25,6 +25,7 @@
 ### 08/04/2022
 
 | **Articulo**  | **Descripcion** |
+| ----------- | ----------- |
 | **Articulo 3** | Prohíbe que las publicaciones dedicadas a la educación de la niñez y juventud menoscaben los principios establecidos en el mismo artículo. |
 | **Articulo 6** | Establece la libertad de expresión como la facultad de toda persona de manifestar sus ideas, pensamientos u opiniones por cualquier medio no escrito. |
 | **Articulo 7** | La libertad de imprenta supone la facultad del individuo de publicar ideas, escritos o imágenes por cualquier medio gráfico. No se puede secuestrar la imprenta como instrumento del delito, y los expendedores, operadores y demás, son ajenos a las responsabilidades de los autores. |
