@@ -24,6 +24,8 @@
 ## Fecha de entrega:
 ### 31/05/2022
 
+
+
 ## ¿Qué es el ransomware WannaCry?
 WannaCry es un ejemplo de ransomware de cifrado, un tipo de software malicioso que los cibercriminales utilizan a fin de extorsionar a un usuario para que pague.
 
@@ -32,3 +34,10 @@ El ransomware ataca cifrando archivos valiosos para que no puedas acceder a ello
 Al igual que otros tipos de ransomware de cifrado, WannaCry secuestra tus datos con la promesa de devolverlos si pagas un rescate.
 
 WannaCry tiene como objetivo los ordenadores que utilizan Microsoft Windows como sistema operativo. Cifra los datos y exige el pago de un rescate en la criptomoneda bitcoin por su devolución.
+
+## ¿Cuál fue el ataque ransomware WannaCry?
+El ataque de ransomware WannaCry fue una epidemia global que tuvo lugar en mayo de 2017.
+
+Este ataque de ransomware se propagó a través de ordenadores con Microsoft Windows. Los archivos del usuario se mantuvieron retenidos y se solicitó un rescate en bitcoins para su devolución.
+
+Si no fuera por el uso continuado de sistemas informáticos obsoletos y por la formación deficiente en torno a la necesidad de actualizar el software, el daño causado por este ataque podría haberse evitado.
