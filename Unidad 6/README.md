@@ -33,6 +33,8 @@ El ransomware ataca cifrando archivos valiosos para que no puedas acceder a ello
 
 Al igual que otros tipos de ransomware de cifrado, WannaCry secuestra tus datos con la promesa de devolverlos si pagas un rescate.
 
+Este se aprovechaba de un fallo de seguridad conocido como "EternalBlue" en una versión del protocolo Server Message Block (SMB) de Windows para propagarse en forma de “gusano” en redes específicas.
+
 WannaCry tiene como objetivo los ordenadores que utilizan Microsoft Windows como sistema operativo. Cifra los datos y exige el pago de un rescate en la criptomoneda bitcoin por su devolución.
 
 ## ¿Cuál fue el ataque ransomware WannaCry?
@@ -41,3 +43,13 @@ El ataque de ransomware WannaCry fue una epidemia global que tuvo lugar en mayo 
 Este ataque de ransomware se propagó a través de ordenadores con Microsoft Windows. Los archivos del usuario se mantuvieron retenidos y se solicitó un rescate en bitcoins para su devolución.
 
 Si no fuera por el uso continuado de sistemas informáticos obsoletos y por la formación deficiente en torno a la necesidad de actualizar el software, el daño causado por este ataque podría haberse evitado.
+
+
+## Como prevenir ataques del malware WannaCry
+Normalmente se piden los mismos requisitos para cualquier ataque de malware. A continuacion se daran las prevenciones para este malware en especifico:
+- No descargar archivos desconocidos o de dudosa procedencia.
+- Tener un antivirus activo.
+- No abrir correos de origenes desconocidos.
+- Revisar conexiones u opciones en la configuracion del wifi o router.
+- Revisar actualizaciones con relacion a los antivirus.
+- (opcional/preferente) Realizar un respaldo o copia de seguridad de todo el ordenador y/o archivos importantes.
