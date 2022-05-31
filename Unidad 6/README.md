@@ -44,6 +44,32 @@ Este ataque de ransomware se propagó a través de ordenadores con Microsoft Win
 
 Si no fuera por el uso continuado de sistemas informáticos obsoletos y por la formación deficiente en torno a la necesidad de actualizar el software, el daño causado por este ataque podría haberse evitado.
 
+## ¿Cómo funciona un ataque de WannaCry?
+Los cibercriminales responsables del ataque aprovecharon una debilidad en el sistema operativo Microsoft Windows mediante un ataque que supuestamente había desarrollado la Agencia de Seguridad Nacional de Estados Unidos.
+
+Conocido como Eternal Blue, este ataque fue publicado por un grupo de hackers llamado The Shadow Brokers antes del ataque de WannaCry.
+
+Microsoft publicó un parche de seguridad que protegía los sistemas de los usuarios contra este exploit o vulnerabilidad casi dos meses antes de que comenzara el ataque de ransomware WannaCry. Por desgracia, muchas personas y organizaciones no actualizan periódicamente sus sistemas operativos, por lo que quedaron expuestas al ataque.
+
+Aquellos que no habían ejecutado una actualización de Microsoft Windows antes del ataque no pudieron beneficiarse del parche, y la vulnerabilidad explotada por Eternal Blue los dejó expuestos al ataque.
+
+
+
+Cuando ocurrió por primera vez, la gente asumió que el ataque de ransomware WannaCry se había propagado inicialmente a través de una campaña de phishing. Sin embargo, Eternal Blue fue el exploit o vulnerabilidad que permitió a WannaCry propagarse, y Double Pulsar era la "puerta trasera" (backdoor) instalada en los ordenadores afectados (que se utilizó para ejecutar WannaCry).
+
+## ¿Qué ocurriría si no se paga el rescate de WannaCry?
+Los atacantes exigieron un rescate en bitcoins por valor de 300 dólares y, posteriormente, aumentaron el rescate en bitcoins a un valor de 600 dólares. A las víctimas del ataque de ransomware WannaCry se les comunicó que, si no pagaban el rescate en un plazo de tres días, sus archivos se eliminarían de forma permanente.
+
+El mejor consejo que se puede dar en lo que se refiere a los pagos de los rescates es no sucumbir. Evita siempre pagar un rescate, ya que no hay garantía de que te vayan a devolver tus archivos; asimismo, cada pago valida el modelo de negocio de los cibercriminales, lo que aumenta las probabilidades de que se produzcan futuros ataques.
+
+## ¿Qué impacto tuvo el ataque de WannaCry?
+El ataque de ransomware WannaCry afectó aproximadamente a 230.000 ordenadores en todo el mundo.
+
+Una de las primeras empresas afectadas fue Telefónica, la empresa de telefonía española. Para el 12 de mayo, miles de hospitales y clínicas del Servicio Nacional de Salud (NHS) del Reino Unido estaban comprometidos.
+
+Un tercio de las fundaciones hospitalarias del NHS se vieron afectadas por el ataque. Se informó a las ambulancias de que cambiaran de ruta, lo que dejó a muchísimas personas necesitadas de atención urgente en la estacada. Se estimó que el ataque costó al NHS la escalofriante cantidad de 92 millones de libras, ya que 19.000 citas se cancelaron como resultado del ataque.
+
+El ransomware se extendió más allá de Europa, y se paralizaron los sistemas informáticos de 150 países. El ataque de ransomware WannaCry tuvo un impacto financiero significativo en todo el mundo. Se estima que este cibercrimen provocó pérdidas por valor de 4.000 millones de dólares en todo el mundo.
 
 ## ¿Cómo prevenir ataques de malware WannaCry?
 Normalmente se piden los mismos requisitos para cualquier ataque de malware. A continuación se darán las prevenciones para este malware en específico:
