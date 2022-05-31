@@ -45,11 +45,11 @@ Este ataque de ransomware se propagó a través de ordenadores con Microsoft Win
 Si no fuera por el uso continuado de sistemas informáticos obsoletos y por la formación deficiente en torno a la necesidad de actualizar el software, el daño causado por este ataque podría haberse evitado.
 
 
-## Como prevenir ataques del malware WannaCry
-Normalmente se piden los mismos requisitos para cualquier ataque de malware. A continuacion se daran las prevenciones para este malware en especifico:
+## ¿Cómo prevenir ataques de malware WannaCry?
+Normalmente se piden los mismos requisitos para cualquier ataque de malware. A continuación se darán las prevenciones para este malware en específico:
 - No descargar archivos desconocidos o de dudosa procedencia.
 - Tener un antivirus activo.
-- No abrir correos de origenes desconocidos.
-- Revisar conexiones u opciones en la configuracion del wifi o router.
-- Revisar actualizaciones con relacion a los antivirus.
+- No abrir correos de orígenes desconocidos.
+- Revisar conexiones u opciones en la configuración del wifi o router.
+- Revisar actualizaciones con relación a los antivirus.
 - (opcional/preferente) Realizar un respaldo o copia de seguridad de todo el ordenador y/o archivos importantes.
